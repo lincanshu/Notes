@@ -7,8 +7,6 @@
 
 # Q1 : 联邦学习可以看作边缘计算的操作系统？
 
-# Q2 : 
-
 # 相关工作
 - 从本文找一些经典论文来看应该是不错的。
 - Robin C. Geyer, Tassilo Klein, and Moin Nabi. 2017. Differentially private federated learning: A client level perspective. CoRR abs/1712.07557 (2017). arxiv:1712.07557 http://arxiv.org/abs/1712.07557 这篇已经看过的论文没想到也受到杨强团队的关注，果然是一篇联邦学习+差分隐私的经典论文，值得精读
